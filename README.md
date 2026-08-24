@@ -1,5 +1,7 @@
 # AI-Powered Transaction & Receipt Management Bot
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8281bf4-b586-484d-978c-dd11cbd5db4c" />
+
 ## Executive Summary
 This project demonstrates a highly advanced, multimodal Telegram bot built with **n8n**. Designed for automated transaction logging and expense tracking, the system intelligently parses user inputs—processing both text commands and AI-driven image analysis for physical receipts. It functions as a complete micro-application, featuring live database management, on-demand Excel report generation, and built-in interactive menus.
 
